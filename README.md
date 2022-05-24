@@ -8,5 +8,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=FFFAFA)](http://instagram.com/diyor.it/)
 [![Telegram channel](https://img.shields.io/badge/Telegram_channel-483D8B?style=for-the-badge&logo=telegram)](https://t.me/diyorit)
+[![VK](https://img.shields.io/badge/VK-008B8B?style=for-the-badge&logo=VK)](https://vk.com/umzkv)
 
 
