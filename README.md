@@ -10,4 +10,4 @@
 [![Telegram channel](https://img.shields.io/badge/Telegram_channel-483D8B?style=for-the-badge&logo=telegram)](https://t.me/diyorit)
 [![VK](https://img.shields.io/badge/VK-008B8B?style=for-the-badge&logo=VK)](https://vk.com/umzkv)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diyorka&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diyorka&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
