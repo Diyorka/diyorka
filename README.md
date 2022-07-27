@@ -1,7 +1,7 @@
 ### Hey, I'm Diyor 
 
 - 🔭 I study at INAI.KG
-- 🌱 I’m currently learning Python on my own and Java at Uni
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: [my telegram](https://t.me/umzkv)
 
 ### Follow me
