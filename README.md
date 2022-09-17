@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=3000&color=F7F7F7&vCenter=true&width=435&height=30&lines=Hello%2C+I'm+Diyor)
+###Hello, I'm Diyor
 
 - 🔭 I study at INAI.KG
 - 🌱 I’m currently learning Java
