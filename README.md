@@ -1,6 +1,8 @@
 ### Hey, I'm Diyor 
 
-- 🔭 I study at INAI.KG
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=-+%F0%9F%94%AD+I+study+at+INAI.KG)](https://git.io/typing-svg)
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: [my telegram](https://t.me/diyor_umurzakov)
 
