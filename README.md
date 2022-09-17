@@ -1,4 +1,4 @@
-###Hello, I'm Diyor
+### Hello, I'm Diyor
 
 - 🔭 I study at INAI.KG
 - 🌱 I’m currently learning Java
