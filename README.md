@@ -1,7 +1,7 @@
 ### Hello, I'm Diyor
 
-- 🔭 I study at INAI.KG
-- 🌱 I’m currently learning Java
+- 🔭 I study at Kyrgyz-German Institute of Applied Informatics
+- 🌱 Java Backend Dev.
 - 📫 How to reach me: [my telegram](https://t.me/diyor_umurzakov)
 
 ### Follow me
