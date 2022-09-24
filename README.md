@@ -10,4 +10,3 @@
 [![VK](https://img.shields.io/badge/VK-008B8B?style=for-the-badge&logo=VK)](https://vk.com/umzkv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyor-umurzakov/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diyorka&layout=compact&theme=react)]
