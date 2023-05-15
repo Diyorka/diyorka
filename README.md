@@ -4,6 +4,9 @@
 - 🌱 Java Backend Dev.
 - 📫 How to reach me: [my telegram](https://t.me/yumzack)
 
+# LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/diyorka?theme=dark&font=Sarabun)
+
 ### Follow me
 
 [![Instagram](https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=FFFAFA)](http://instagram.com/diyor_umurzakov/)
