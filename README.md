@@ -10,5 +10,5 @@
 # Follow me
 [![Instagram](https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=FFFAFA)](http://instagram.com/yumzakk/)
 [![VK](https://img.shields.io/badge/VK-008B8B?style=for-the-badge&logo=VK)](https://vk.com/umzkv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyor_umurzakov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyor-umurzakov/)
 
