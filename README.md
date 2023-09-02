@@ -1,4 +1,4 @@
-# Hey, I'm Diyor Umurzakov
+# Hey there, I'm Diyor Umurzakov
 
 - 🔭 Student of Kyrgyz-German Institute of Applied Informatics
 - 🌱 Java Software Developer 
