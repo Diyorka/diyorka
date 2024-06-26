@@ -1,6 +1,5 @@
 # Hey there, I'm Diyor Umurzakov
 
-- 🔭 Student of Kyrgyz-German Institute of Applied Informatics
 - 🌱 Java Software Developer 
 - 📫 How to reach me: [my telegram](https://t.me/yumzack)
 
